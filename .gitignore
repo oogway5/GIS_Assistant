@@ -1,0 +1,13 @@
+# Environments
+venv/
+env/
+
+# Secrets (Very Important)
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
