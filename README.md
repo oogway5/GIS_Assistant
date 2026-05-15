@@ -63,4 +63,4 @@ The application will open automatically in your default web browser at `http://l
 ## 📸 Screenshots
 
 * **Main Chat Interface:**
-  ![Main UI](img/ui.png)
+  ![Main UI](img/ui2.png)
