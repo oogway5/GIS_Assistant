@@ -61,9 +61,6 @@ The application will open automatically in your default web browser at `http://l
 ---
 
 ## 📸 Screenshots
-*(Screenshots will be added here once the UI is finalized)*
 
 * **Main Chat Interface:**
-  * **Satellite Image Analysis & JSON Output:**
-  ## 🎬 Demo
-*(Demo GIF showing the complete workflow will be added here)*
+  ![Main UI](img/ui.png)
